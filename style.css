@@ -1,0 +1,21 @@
+body {
+    background: rgb(147, 193, 243);
+}
+#score {
+    font-size: 35px;
+    float: left;
+    margin-left: 60px;
+}
+#timer {
+    font-size: 35px;
+    float:right;
+    margin-right: 60px;
+}
+#sketchDrawn {
+    color:rgb(28, 80, 148);
+}
+#quickDraw {
+    font-size: 45px;
+    color: rgb(27, 82, 141);
+    background-color: rgb(103, 157, 214);
+}
